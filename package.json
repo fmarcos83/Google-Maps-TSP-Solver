@@ -1,0 +1,19 @@
+{
+  "name": "gmaps-tsp",
+  "version": "1.0.0",
+  "description": "Google-Maps-TSP-Solver ======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmarcos83/Google-Maps-TSP-Solver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmarcos83/Google-Maps-TSP-Solver/issues"
+  },
+  "homepage": "https://github.com/fmarcos83/Google-Maps-TSP-Solver#readme"
+}
